@@ -25,14 +25,12 @@ git push origin Hyeonseong # 오리진에 푸시
 
 ```bash
 .
-├── api-practice # 과제: api 이용 데이터 수집
-├── dynamic-crawling # 과제: 동적 크롤링
-├── static-crawling # 정적 크롤링 실습
-├── README.md # 프로젝트 설명 리드미 (수정X)
-└── lissani #(개인 폴더)
-    └── yanolja_crawling.py # python 코드 파일
-└── .gitignore # gitignore파일(가상환경파일을 숨김처리)
-└── requirements.txt # 텍스트 파일(패키지 관리 파일)
+├── .gitignore                # 가상환경 등 불필요한 파일 무시 설정
+├── README.md                 # 프로젝트 설명 리드미 파일
+├── 실습_코드.ipynb          # 프롬프트 엔지니어링 실습용 주피터 노트북
+└── bmk/                  # 개인 작업 폴더
+    └── test.ipynb  # 개인 Python 코드 파일
+
 ```
 
 ## 커밋 컨벤션
